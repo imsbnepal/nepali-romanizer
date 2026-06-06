@@ -14,10 +14,11 @@ To use this library in your **Maven** project, add the following to your `pom.xm
 
 ```xml
 <repositories>
-    <repository>
-        <id>romanis-maven</id>
-        <url>https://gitlab.com/api/v4/projects/82864097/packages/maven</url>
-    </repository>
+     <repository>
+            <id>github-mvn</id>
+            <name>GitHub SBNepal Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/SBNepal/nepali-romanizer</url>
+        </repository>
 </repositories>
 
 <dependencies>
@@ -25,31 +26,17 @@ To use this library in your **Maven** project, add the following to your `pom.xm
        <groupId>nepaliromanis</groupId>
     <artifactId>nepali-romanis</artifactId>
     <version>1.0.1</version>
-      <packaging>jar</packaging>
     </dependency>
 </dependencies>
 ```
 
-For **Gradle**:
-
-```gradle
-repositories {
-    maven {
-        url "https://gitlab.com/api/v4/projects/82864097/packages/maven"
-    }
-}
-
-dependencies {
-    implementation 'nepali-romanis:nepal-romanis:1.0.0'
-}
-```
 
 ## Quick start
 
 ### Transliteration only (no API key required)
 
 ```java
-NepaliTranslatorFacade facade = NepaliTranslatorFacade.builder().build();
+NepaliRomanizer romanized = NepaliRomanizer.builder().build();
 
 // Roman → Nepali
 String nepali = facade.romanToNepali("namaste");   // → "नमस्ते"

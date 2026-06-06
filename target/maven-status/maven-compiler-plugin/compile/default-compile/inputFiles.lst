@@ -1,0 +1,13 @@
+/home/sher/Desktop/Project/nepali-romanizer/src/main/java/nepaliromanizer/NepaliRomanizer.java
+/home/sher/Desktop/Project/nepali-romanizer/src/main/java/nepaliromanizer/cache/CachingTranslator.java
+/home/sher/Desktop/Project/nepali-romanizer/src/main/java/nepaliromanizer/core/AbstractTranslator.java
+/home/sher/Desktop/Project/nepali-romanizer/src/main/java/nepaliromanizer/core/Language.java
+/home/sher/Desktop/Project/nepali-romanizer/src/main/java/nepaliromanizer/core/LanguagePair.java
+/home/sher/Desktop/Project/nepali-romanizer/src/main/java/nepaliromanizer/core/TranslationException.java
+/home/sher/Desktop/Project/nepali-romanizer/src/main/java/nepaliromanizer/core/TranslationResult.java
+/home/sher/Desktop/Project/nepali-romanizer/src/main/java/nepaliromanizer/core/Translator.java
+/home/sher/Desktop/Project/nepali-romanizer/src/main/java/nepaliromanizer/core/TranslatorRegistry.java
+/home/sher/Desktop/Project/nepali-romanizer/src/main/java/nepaliromanizer/transliteration/NepaliMappings.java
+/home/sher/Desktop/Project/nepali-romanizer/src/main/java/nepaliromanizer/transliteration/NepaliToRomanTransliterator.java
+/home/sher/Desktop/Project/nepali-romanizer/src/main/java/nepaliromanizer/transliteration/RomanToNepaliTransliterator.java
+/home/sher/Desktop/Project/nepali-romanizer/src/main/java/nepaliromanizer/transliteration/WordDictionary.java

@@ -81,8 +81,9 @@
 
     <distributionManagement>
         <repository>
-            <id>romanis-maven</id>
-            <url>https://gitlab.com/api/v4/projects/82864097/packages/maven</url>
+            <id>github-mvn</id>
+            <name>GitHub SBNepal Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/SBNepal/nepali-romanizer</url>
         </repository>
     </distributionManagement>
 
