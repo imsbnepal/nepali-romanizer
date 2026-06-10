@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: nepaliromanizer.TransliterationTest
 -------------------------------------------------------------------------------
-Tests run: 41, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.201 s -- in nepaliromanizer.TransliterationTest
+Tests run: 41, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.227 s -- in nepaliromanizer.TransliterationTest

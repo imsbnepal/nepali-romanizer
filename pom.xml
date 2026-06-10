@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>nepaliromanis</groupId>
+    <groupId>imsbnepal-nepaliromanis</groupId>
     <artifactId>nepali-romanis</artifactId>
     <version>1.0.2</version>
     <packaging>jar</packaging>
@@ -81,7 +81,7 @@
 
     <distributionManagement>
         <repository>
-            <id>github-mvn</id>
+            <id>github-mvn-v2</id>
             <name>GitHub imsbnepal Apache Maven Packages</name>
             <url>https://maven.pkg.github.com/imsbnepal/nepali-romanizer</url>
         </repository>
