@@ -5,7 +5,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>io.github.iamsbnepal</groupId>
+    <groupId>io.github.imsbnepal</groupId>
     <artifactId>nepali-romanis</artifactId>
     <version>1.0.3</version>
     <packaging>jar</packaging>
@@ -14,7 +14,7 @@
     <description>
         Java library for Nepali ↔ Roman Nepali transliteration.
     </description>
-    <url>https://github.com/iamsbnepal/nepali-romanizer</url>
+    <url>https://github.com/imsbnepal/nepali-romanizer</url>
 
     <licenses>
         <license>
@@ -28,19 +28,19 @@
         <developer>
             <id>iamsbnepal</id>
             <name>Sher Bahadur</name>
-            <url>https://github.com/iamsbnepal</url>
+            <url>https://github.com/imsbnepal</url>
         </developer>
     </developers>
 
     <scm>
         <connection>
-            scm:git:git://github.com/iamsbnepal/nepali-romanizer.git
+            scm:git:git://github.com/imsbnepal/nepali-romanizer.git
         </connection>
         <developerConnection>
-            scm:git:ssh://git@github.com/iamsbnepal/nepali-romanizer.git
+            scm:git:ssh://git@github.com/imsbnepal/nepali-romanizer.git
         </developerConnection>
         <url>
-            https://github.com/iamsbnepal/nepali-romanizer
+            https://github.com/imsbnepal/nepali-romanizer
         </url>
         <tag>HEAD</tag>
     </scm>
