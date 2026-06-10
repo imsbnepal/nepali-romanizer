@@ -14,8 +14,8 @@ To use this library in your **Maven** project, add the following to your `pom.xm
 
 ```xml
 <repositories>
-     <repository>
-            <id>github-mvn</id>
+    <repository>
+            <id>github-mvn-v2</id>
             <name>GitHub imsbnepal Apache Maven Packages</name>
             <url>https://maven.pkg.github.com/imsbnepal/nepali-romanizer</url>
         </repository>
@@ -23,7 +23,7 @@ To use this library in your **Maven** project, add the following to your `pom.xm
 
 <dependencies>
     <dependency>
-       <groupId>nepaliromanis</groupId>
+    <groupId>imsbnepal-nepaliromanis</groupId>
     <artifactId>nepali-romanis</artifactId>
     <version>1.0.2</version>
     </dependency>
